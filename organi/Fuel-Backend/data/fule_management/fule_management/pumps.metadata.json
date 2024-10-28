@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"8220e18e944f48f198e816e77c640bdb","collectionName":"pumps","type":"collection"}
